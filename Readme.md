@@ -1,6 +1,6 @@
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
+# Titulo <h1>
+## Subtitulo <h2> 
+###### otra cosa <h6> 
 
 asdasd
 asd
