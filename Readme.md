@@ -6,5 +6,7 @@ Este repositorio contiene informes con datos modificados trabajados con power bi
 
 * [Informe Unidad de paciente crítico](https://app.powerbi.com/view?r=eyJrIjoiOWU4ZjgwZDktNjllZS00YmM5LTllZjYtZjY0ZDAwNmJjZjQ2IiwidCI6ImY5ZWY2NjVkLTdkNWYtNDdmOS05MGNkLWY2YWE1NDI3OGRjNCJ9)
 
+* [Informe caso Restaurant "Grill Bar"](https://app.powerbi.com/view?r=eyJrIjoiOWFlZjk4NzctODBkNi00ZTI2LTk5ZWEtMThlMzFiNTgxZDgyIiwidCI6ImY5ZWY2NjVkLTdkNWYtNDdmOS05MGNkLWY2YWE1NDI3OGRjNCJ9)
+
 
 
